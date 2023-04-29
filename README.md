@@ -4,11 +4,13 @@ A UI clone of the popular music app Spotify.
 
 # Still haven't joined the discord server or subscribed the youtube channel ?
 
-If you haven't still joined our community on discord or haven't subscribed my YT channel to get notified of more interesting topics, you can do both of them from the links below. :)
+If you haven't still joined our community on Discord or haven't subscribed my YouTube channel to get notified of more interesting topics, you can do both of them from the links below. :)
 
-A few resources to get you started if this is your first Flutter project:
+Join & stay with me :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Join discord server](https://discord.gg/WcbDuU8sba)
+- [Subscribe my channel](https://www.youtube.com/channel/UC-kjowEjjeuk1BzfhcFKU9Q)
 
-You can also contact me in facebook or instagram :-
+You can also contact me in Facebook or Instagram :
+- [Instagram](https://instagram.com/generalcoding164?igshid=ZDdkNTZiNTM=)
+- [Facebook](https://www.facebook.com/generalcoding164?mibextid=ZbWKwL)
