@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+import 'homePage/home.dart';
+
+void main() {
+  runApp(const Env());
+}
+
+class Env extends StatelessWidget {
+  const Env({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return const MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Home(),
+      themeMode: ThemeMode.dark,
+    );
+  }
+}
