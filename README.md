@@ -1,16 +1,14 @@
-# spotify_copyui
+# Spotify UI Clone
 
-A new Flutter project.
+A UI clone of the popular music app Spotify.
 
-## Getting Started
+# Still haven't joined the discord server or subscribed the youtube channel ?
 
-This project is a starting point for a Flutter application.
+If you haven't still joined our community on discord or haven't subscribed my YT channel to get notified of more interesting topics, you can do both of them from the links below. :)
 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can also contact me in facebook or instagram :-
